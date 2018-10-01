@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class CrazyNum {
 	public static String[] crazy_num(int max_num){
 		//Bhami testing Sep30 git
+		//Bhami did second sechange right at github repo
 		int x = 1;
 		int y = 0;
 		int len = max_num/3 + 1; 
