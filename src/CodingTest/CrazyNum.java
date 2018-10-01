@@ -26,6 +26,7 @@ public class CrazyNum {
 	}
 	public static void main(String[] args) {
 		System.out.println("Crazy array :" + Arrays.toString(crazy_num(20)));
+		//Bhami changed only at the branch bhami_test
 	}
 
 }
