@@ -28,7 +28,6 @@ public class CrazyNum {
 		System.out.println("Crazy array by Bhami:" + Arrays.toString(crazy_num(20)));
 		//Bhami changed only at the branch bhami_test
 		//Bhami did pull request at eclipse. and now testing
-		//creating a new branch to check merge
 	}
 
 }
